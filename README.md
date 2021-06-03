@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitprasain
-- 👀 I’m interested in React , Laravel
+- 👀 I’m interested in React ,Vue, Laravel
 - 🌱 I’m currently learning Hasura, GraphQL
 - 💞️ I’m looking to collaborate on company's project
 - 📫 contact me at microscopicrohit@gmail.com
